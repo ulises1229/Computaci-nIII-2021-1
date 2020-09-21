@@ -1,13 +1,13 @@
 # Computación III 
-## Semestre  2021-1
+### Semestre  2021-1
 
-# Objetivo del curso
+## Objetivo del curso
 
-# Prerequisitos
+## Prerequisitos
   + Python 3.X instalado
   + Entonrno de desarrollo integrado
-    - Pycharm
-    - Jupyter
+    - Pycharm [Licencia educativa](https://www.jetbrains.com/community/education/#students)
+    - Jupyter []()
   + Crear una cuenta en GitHub
   + Crear una cuente en Google Colab
   
