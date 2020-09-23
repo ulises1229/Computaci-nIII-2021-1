@@ -1,5 +1,5 @@
 # Licenciatura en Tecnología - Computación III 
-####  Semestre  2021-1
+###  Semestre: 2021-1
 ![alt text](figs/logo.png)
 
 
@@ -43,3 +43,5 @@ Se deberán crear cuentas en las siguientes plataformas:
 | 3.              |Sistemas de ecuaciones algebraicas lineales |         |          |   
 | 4.              |Problemas de eigenvalores                   |         |          |    
 | 5.              |Optimización en una dimensión               |         |          |    
+
+##### Última actualización 23 de septiembre de 2020
