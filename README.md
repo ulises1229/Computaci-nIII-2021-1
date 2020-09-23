@@ -38,7 +38,7 @@ Se deberán crear cuentas en las siguientes plataformas:
 ## Contenido del curso
 | No.        | Tema           | Código  |  Material complementario|
 | :-------------: |:-------------|:-----| :-----:|
-| 1.              |Optimización en una dimensión               |         |          | 
+| 1.              |Optimización en una dimensión               |  [Optimización.ipynb](https://colab.research.google.com/drive/1qY2PTx2BsP0YOIWbRoRnZz6g24a8By8S?usp=sharing)       |          | 
 | 2.              |Análisis Matricial                          |         |          | 
 | 3.              |Sistemas de ecuaciones algebraicas lineales |         |          |   
 | 4.              |Problemas de eigenvalores                   |         |          |    
