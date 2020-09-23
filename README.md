@@ -12,8 +12,14 @@ Presentar al alumno métodos numéricos para resolver problemas matemáticos, f�
 
 
 ## Prerequisitos
+
++ Dominio de los lenguajes de programación Python y C++ 
++ Haber acreditato la asignatura de Computación II
+
+Se deberá contar con el siguiente software instalado 
+
 + [Video de instalación de prerequisitos](https://www.youtube.com/watch?v=1ETiwXo0lg4&feature=emb_title&ab_channel=CanalTecn%C3%B3logos)
-  + Python 3.X instalado
+  + Python 3.X
   + Entonrno de desarrollo integrado(IDE)
     - Jupyter [Página oficial](https://jupyter.org/) (Deseable)
     - Pycharm [Licencia educativa](https://www.jetbrains.com/community/education/#students)
@@ -22,6 +28,8 @@ Presentar al alumno métodos numéricos para resolver problemas matemáticos, f�
     - Numpy
     - Sympy
     - Matplotlib 
+    
+Se deberán crear cuentas en las siguientes plataformas:
   + Crear una cuenta en GitHub
   + Crear una cuente en Google Colab
   
