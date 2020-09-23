@@ -1,5 +1,8 @@
-# Computación III 
+# Licenciatura en Tecnología - Computación III 
 ####  Semestre  2021-1
+
+
+
 
 ## Profesor
  Dr. Ulises Olivares Pinto
@@ -13,6 +16,10 @@
   + Entonrno de desarrollo integrado
     - Jupyter [Página oficial](https://jupyter.org/)
     - Pycharm [Licencia educativa](https://www.jetbrains.com/community/education/#students)
+  + Instalación de librarías (Instalación local)
+    - Numpy
+    - Sympy
+    - Matplotlib 
   + Crear una cuenta en GitHub
   + Crear una cuente en Google Colab
   
