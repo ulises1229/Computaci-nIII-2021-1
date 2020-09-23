@@ -14,9 +14,10 @@ Presentar al alumno métodos numéricos para resolver problemas matemáticos, f�
 ## Prerequisitos
 + [Video de instalación de prerequisitos](https://www.youtube.com/watch?v=1ETiwXo0lg4&feature=emb_title&ab_channel=CanalTecn%C3%B3logos)
   + Python 3.X instalado
-  + Entonrno de desarrollo integrado
-    - Jupyter [Página oficial](https://jupyter.org/)
+  + Entonrno de desarrollo integrado(IDE)
+    - Jupyter [Página oficial](https://jupyter.org/) (Deseable)
     - Pycharm [Licencia educativa](https://www.jetbrains.com/community/education/#students)
+    - Spyder [Página oficial](https://www.spyder-ide.org/)
   + Instalación de librarías (Instalación local)
     - Numpy
     - Sympy
