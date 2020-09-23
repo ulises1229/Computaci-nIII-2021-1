@@ -1,6 +1,6 @@
 # Licenciatura en Tecnología - Computación III 
 ####  Semestre  2021-1
-
+![alt text](figs/logo.png)
 
 
 
@@ -8,6 +8,7 @@
  Dr. Ulises Olivares Pinto
 
 ## Objetivo del curso
+Presentar al alumno métodos numéricos para resolver problemas matemáticos, físicos, químicos y biológicos
 
 
 ## Prerequisitos
@@ -23,5 +24,11 @@
   + Crear una cuenta en GitHub
   + Crear una cuente en Google Colab
   
-  
-  
+## Contenido del curso
+| No.        | Tema           | Código  |  Material complementario|
+| :-------------: |:-------------|:-----| :-----:|
+| 1.              |Optimización en una dimensión               |         |          | 
+| 2.              |Análisis Matricial                          |         |          | 
+| 3.              |Sistemas de ecuaciones algebraicas lineales |         |          |   
+| 4.              |Problemas de eigenvalores                   |         |          |    
+| 5.              |Optimización en una dimensión               |         |          |    
