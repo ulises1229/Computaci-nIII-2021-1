@@ -44,4 +44,4 @@ Se deberán crear cuentas en las siguientes plataformas:
 | 4.              |Problemas de eigenvalores                   |         |          |    
 | 5.              |Optimización en una dimensión               |         |          |    
 
-##### Última actualización 23 de septiembre de 2020
+##### Última actualización: 23 de septiembre de 2020
