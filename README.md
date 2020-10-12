@@ -39,7 +39,7 @@ Se deberán crear cuentas en las siguientes plataformas:
 | No.        | Tema           | Código  |  Material complementario|
 | :-------------: |:-------------|:-----| :-----:|
 | 1.              |Optimización en una dimensión               |  [Optimización.ipynb](https://colab.research.google.com/drive/1qY2PTx2BsP0YOIWbRoRnZz6g24a8By8S?usp=sharing)       |          | 
-| 2.              |Análisis Matricial                          |  [Análisis_Matricial.ipynb](https://colab.research.google.com/drive/14EF0ZJlxXeEGKecXzfBwjl8tq--ENZWk?usp=sharing)      |  [Numpy Documentación](https://numpy.org/doc/)        | 
+| 2.              |Análisis Matricial                          |  [Análisis_Matricial.ipynb](https://colab.research.google.com/drive/14EF0ZJlxXeEGKecXzfBwjl8tq--ENZWk?usp=sharing)      |  + [Numpy Documentación](https://numpy.org/doc/)        | 
 | 3.              |Sistemas de ecuaciones algebraicas lineales |         |          |   
 | 4.              |Problemas de eigenvalores                   |         |          |      
 
